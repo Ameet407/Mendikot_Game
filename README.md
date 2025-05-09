@@ -106,7 +106,7 @@ com.example.mendikot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mendikot.git
+   git clone https://github.com/Ameet407/Mendikot_Game.git
    ```
 
 2. Open the project in Android Studio:
