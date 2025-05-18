@@ -149,6 +149,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Developed by ameet407
-
+Developed by Ameet Kumar Mishra
 
